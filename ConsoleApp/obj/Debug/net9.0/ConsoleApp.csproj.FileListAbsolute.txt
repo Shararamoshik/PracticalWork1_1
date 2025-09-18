@@ -16,3 +16,4 @@ C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\refint\C
 C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
