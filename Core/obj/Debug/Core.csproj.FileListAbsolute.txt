@@ -1,0 +1,10 @@
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\bin\Debug\Core.dll
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\bin\Debug\Core.pdb
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\obj\Debug\Core.csproj.Up2Date
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\obj\Debug\Core.dll
+C:\Users\Ivan\source\repos\PracticalWork1_1\Core\obj\Debug\Core.pdb
