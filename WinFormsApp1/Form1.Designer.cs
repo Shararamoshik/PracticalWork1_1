@@ -41,6 +41,7 @@
             btnGroupByAuthor = new Button();
             btnSearchByYear = new Button();
             label1 = new Label();
+            btnRefresh = new Button();
             SuspendLayout();
             // 
             // txtTitle
@@ -159,11 +160,22 @@
             label1.TabIndex = 13;
             label1.Text = "книги:";
             // 
+            // btnRefresh
+            // 
+            btnRefresh.Location = new Point(161, 464);
+            btnRefresh.Name = "btnRefresh";
+            btnRefresh.Size = new Size(130, 49);
+            btnRefresh.TabIndex = 14;
+            btnRefresh.Text = "Обновить список";
+            btnRefresh.UseVisualStyleBackColor = true;
+            btnRefresh.Click += btnRefresh_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(672, 544);
+            Controls.Add(btnRefresh);
             Controls.Add(label1);
             Controls.Add(btnSearchByYear);
             Controls.Add(btnGroupByAuthor);
@@ -199,5 +211,6 @@
         private Button btnGroupByAuthor;
         private Button btnSearchByYear;
         private Label label1;
+        private Button btnRefresh;
     }
 }

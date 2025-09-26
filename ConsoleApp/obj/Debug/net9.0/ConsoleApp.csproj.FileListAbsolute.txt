@@ -17,3 +17,4 @@ C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ConsoleA
 C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
 C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
+C:\Users\Ivan\source\repos\PracticalWork1_1\ConsoleApp\bin\Debug\net9.0\Newtonsoft.Json.dll

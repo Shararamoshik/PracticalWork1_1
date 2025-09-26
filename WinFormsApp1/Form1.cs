@@ -32,9 +32,12 @@ namespace WinFormsApp1
 
         private void RefreshBooksList()
         {
+            var books = bookService.GetAllBooks();
             listBoxBooks.DataSource = null;
-            listBoxBooks.DataSource = bookService.GetAllBooks();
+            listBoxBooks.DataSource = books;
             listBoxBooks.DisplayMember = "Title";
+
+
         }
 
         private void listBoxBooks_SelectedIndexChanged(object sender, EventArgs e)
@@ -107,5 +110,12 @@ namespace WinFormsApp1
         {
 
         }
+
+        private void btnRefresh_Click(object sender, EventArgs e)
+        {
+            RefreshBooksList();
+        }
+
+
     }
 }

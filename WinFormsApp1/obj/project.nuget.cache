@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "WupJ0iKni7A=",
+  "dgSpecHash": "S5ypOKU/S5g=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ivan\\source\\repos\\PracticalWork1_1\\WinFormsApp1\\WinFormsApp.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ivan\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"System.Text.Json\" 7.0.0 есть известная уязвимость https://github.com/advisories/GHSA-hh2w-p6rv-4g7w (уровень серьезности: высокий)",
+      "projectPath": "C:\\Users\\Ivan\\source\\repos\\PracticalWork1_1\\WinFormsApp1\\WinFormsApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Ivan\\source\\repos\\PracticalWork1_1\\WinFormsApp1\\WinFormsApp.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
 }
